@@ -1,0 +1,4 @@
+conf.js
+*~
+node_modules/*
+test.db
